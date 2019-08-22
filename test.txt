@@ -1,4 +1,5 @@
-Prueba de Uso de Git
-En la materia de Ingenieria de Software
-Docente: Ingenierio Campohermoso
-Estudiante: Rodolfo Catunta
+Prueba de Uso de Git y GitHub
+En la clase del 15 de Agosto 2019
+Docente: Ing. Ernesto Campohermoso
+Materia: Ingenieria de Software
+Estudiante: Rodolfo Christian Catunta Uturunco
