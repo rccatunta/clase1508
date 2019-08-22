@@ -1,5 +1,5 @@
 Prueba de Uso de Git y GitHub
-Docente: Ing. Ernesto Campohermoso
+Docente: Ing. Ernesto Omar Campohermoso Alcon
 Materia: Ingenieria de Software
 Estudiante: Rodolfo Christian Catunta Uturunco
 Clase del 15 de Agosto
